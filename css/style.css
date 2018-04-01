@@ -126,7 +126,7 @@ html, body {
 #top-banner .container {
 	position: relative;
 	height: 100vh;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	padding: 0;
 }
 .banner-content {
